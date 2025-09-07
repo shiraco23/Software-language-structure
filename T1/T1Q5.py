@@ -10,4 +10,5 @@ def dict_3_add(d1, d2, d3):
     ) - {None})), keys))
 
 
-print(dict_3_add({1: 2, 2: 3}, {2: 4, 3: 5}, {1: 2, 3: 6}))
+# Example test:
+#print(dict_3_add({1: 2, 2: 3}, {2: 4, 3: 5}, {1: 2, 3: 6}))
